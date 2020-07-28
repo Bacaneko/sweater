@@ -3,3 +3,5 @@ rest
 target
 *.iml
 log
+*.class
+*.jar
