@@ -1,7 +1,4 @@
-.idea
-rest
-target
-*.iml
-log
 *.class
 *.jar
+target
+.idea
